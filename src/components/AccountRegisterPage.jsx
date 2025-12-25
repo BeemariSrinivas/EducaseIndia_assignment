@@ -1,6 +1,6 @@
 function AccountRegisterPage(){
     return(
-        <></>
+        <div>Register Page</div>
     )
 }
 
