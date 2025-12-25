@@ -4,7 +4,7 @@ function AccountRegisterPage(){
     const navigate = useNavigate();
 
     function handleRegister(){
-        navigate("/dashboard");
+        navigate("/profile");
     }
 
 
